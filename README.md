@@ -2,8 +2,8 @@
 I’m currently working on AI engineer in Smart technology
 
 
-![Uploading Artboard-32-1.png…]()
 
+![Artboard-32-1](https://github.com/user-attachments/assets/bcc0dc9e-f553-44cc-902f-6b8f2471f8e7)
 
 
 <!--
