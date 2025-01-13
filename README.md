@@ -1,4 +1,5 @@
 ## Hi there 👋
+##I’m currently working on AI engineer in Smart technology
 
 <!--
 **DoniaGhars/DoniaGhars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
