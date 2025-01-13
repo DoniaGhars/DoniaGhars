@@ -1,5 +1,9 @@
 ## Hi there 👋
-##I’m currently working on AI engineer in Smart technology
+I’m currently working on AI engineer in Smart technology
+
+![ai-artificial-intelligence-banner-design-vector-46282252 (1)](https://github.com/user-attachments/assets/f88b21d5-f512-4952-bfb3-0991447bb0a9)
+
+
 
 <!--
 **DoniaGhars/DoniaGhars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
