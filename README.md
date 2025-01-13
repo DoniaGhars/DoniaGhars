@@ -12,6 +12,11 @@ Currently, I’m expanding my expertise with the AWS Machine Learning course, fo
 
 I’m eager to collaborate with like-minded professionals to innovate and bring data-driven solutions to life!
 
+## My Skills
+Programming Languages: Python, C++, Java, SQL,c#
+AI/ML Tools: TensorFlow, AWS, OpenCV, Jupiter Notebook,Skealearn
+Application: Arduino, Cisco Packet Tracer, Proteus
+Cloud Platforms: AWS, IoT systems
 
 <!--
 **DoniaGhars/DoniaGhars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
